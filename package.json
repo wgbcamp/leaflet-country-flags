@@ -1,5 +1,13 @@
 {
+  "scripts": {
+    "dev": "vite"
+  },
   "devDependencies": {
     "vite": "^7.0.4"
+  },
+  "dependencies": {
+    "@turf/turf": "^7.2.0",
+    "proj4": "^2.19.6",
+    "proj4leaflet": "^1.0.2"
   }
 }
